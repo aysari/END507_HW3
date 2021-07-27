@@ -1,4 +1,4 @@
-Kodu Çalıştırma için Yapılması Gerekenler
+Kodu Çalıştırmak için Yapılması Gerekenler
 	1) END507_HW3 dosyası .zip uzantılı indirilir.
 	2) END507_HW3.zip dosyasının içindeki END507_HW3 dosyası ECLIPSE'in directory'sine kaydedilir.
 	3) ECLIPSE programı çalıştırılır.
